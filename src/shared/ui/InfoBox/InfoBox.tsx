@@ -1,0 +1,1 @@
+export const InfoBox = () => <div>InfoBox</div>;
