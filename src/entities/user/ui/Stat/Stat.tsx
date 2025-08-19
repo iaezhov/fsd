@@ -1,0 +1,1 @@
+export const Stat = () => <div>Stat</div>;
